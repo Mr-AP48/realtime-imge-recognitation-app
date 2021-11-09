@@ -1,0 +1,28 @@
+.titleText {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.sideTitleText {
+    margin-left: 350px;
+    background-color: whitesmoke;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.resultElements {
+    box-shadow: 5px 5px 5px grey;
+    font-size: 15px;
+    margin-left: 670px;
+}
+
+canvas {
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 150px;
+}
